@@ -12,7 +12,7 @@ connetDB()
 
 app.use(express.json());
 app.use(cors({
-    origin: 'https://expense-trackkerr.netlify.app/', 
+    origin: 'https://expense-trackkerr.netlify.app'
   }));
   
 

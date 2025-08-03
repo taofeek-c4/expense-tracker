@@ -15,7 +15,10 @@ app.use(cors({
     origin: 'https://expense-trackkerr.netlify.app'
   }));
   
-
+// Ping route for uptime monitoring
+app.get('/api/ping', (req, res) => {
+    res.status(200).json({ message: 'Server is alive!' });
+  });
 // Test endpoint for debugging
 app.get('/api/test', (req, res) => {
     res.json({ message: 'Backend server is running!' });

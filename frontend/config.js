@@ -1,7 +1,7 @@
 // Configuration file for Expense Tracker
 const CONFIG = {
     // API Configuration
-    API_BASE_URL: 'http://localhost:4000/api/user',
+    API_BASE_URL: 'https://expense-tracker-backend-nq41.onrender.com/api/user',
     
     // Application Settings
     APP_NAME: 'Expense Tracker',

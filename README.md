@@ -1,5 +1,7 @@
 # Expense Tracker
 
+[![Live Demo](https://img.shields.io/badge/Live_App-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://your-netlify-site.netlify.app)
+
 ## Overview
 
 Expense Tracker is a full-stack web application designed to help users manage their personal finances with ease. The app allows users to record, categorize, and analyze their expenses and incomes, providing valuable insights into their spending habits and financial health. With a clean interface and powerful features, Expense Tracker makes budgeting and financial planning simple and accessible.

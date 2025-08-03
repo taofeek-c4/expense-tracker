@@ -1,6 +1,10 @@
 # Expense Tracker
 
-[![Live Demo](https://img.shields.io/badge/Live_App-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://your-netlify-site.netlify.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_APP-NETLIFY-00C7B7?style=for-the-badge&logo=netlify)](https://expense-trackkerr.netlify.app)
+
+## 🌐 Live Preview
+
+Access the full application here 👉 [https://expense-trackkerr.netlify.app](https://expense-trackkerr.netlify.app)
 
 ## Overview
 
